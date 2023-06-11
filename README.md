@@ -175,7 +175,7 @@ vim web_demo2.py # 将框出部分的路径改为下载的模型路径
 vim requirements.txt
 ```
 
-![image-20230610161357609](https://thumbnail0.baidupcs.com/thumbnail/7f7f78a99s375ad0f549eda7f53c75af?fid=2794798890-250528-634649274020223&time=1686481200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-SNYmTreESopnFQii0%2F6iofou578%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=293794428961997931&dp-callid=0&file_type=0&size=c710_u400&quality=100&vuk=-&ft=video)
+![2](image-20230610162912849.png)
 
 ### (五)、conda创建ChatGLM虚拟环境
 
@@ -195,5 +195,5 @@ python3 -m streamlit run ./web_demo2.py --server.port 8080
 
 #使用框出部分的链接访问，第二个还不清除为什么不能访问
 ```
-
+![2](image-20230610162912849.png)
 ![3](image-20230610163124868.png)
