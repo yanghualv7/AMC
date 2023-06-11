@@ -169,13 +169,13 @@ cd /home/zlab1/AMC/ChatGLM/ChatGLM-6B && ls
 vim web_demo2.py # 将框出部分的路径改为下载的模型路径
 ```
 
-![image-20230610160354984](https://thumbnail0.baidupcs.com/thumbnail/e8d7dc880gf2c539222567469f54b12f?fid=2794798890-250528-982345225605206&time=1686387600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-jrJCt%2Bmbz2VhTZHVKb%2BwzxeOn1s%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=269054173777089613&dp-callid=0&file_type=0&size=c710_u400&quality=100&vuk=-&ft=video)
+![0](image-20230610161357609.png)
 
 ```ubuntu命令
 vim requirements.txt
 ```
 
-![2](image-20230610162912849.png)
+![2](image-20230610160354984.png)
 
 ### (五)、conda创建ChatGLM虚拟环境
 
