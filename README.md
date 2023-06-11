@@ -196,4 +196,4 @@ python3 -m streamlit run ./web_demo2.py --server.port 8080
 #使用框出部分的链接访问，第二个还不清除为什么不能访问
 ```
 
-![image-20230610162912849](https://thumbnail0.baidupcs.com/thumbnail/add307a65u11bb6296acdb04dc6f835d?fid=2794798890-250528-1038593971517293&time=1686387600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-dmsiaLjyP5l%2BA1M3LA8quhHqdVk%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=269073964830030885&dp-callid=0&file_type=0&size=c710_u400&quality=100&vuk=-&ft=video)![image-20230610163124868](https://thumbnail0.baidupcs.com/thumbnail/d26363058h8465889f116e854edeeb52?fid=2794798890-250528-624400145802704&time=1686387600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-nQ%2BrOKQ%2Fx4NmGIUTmIt8a6r7l64%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=269137708484155471&dp-callid=0&file_type=0&size=c710_u400&quality=100&vuk=-&ft=video)
+![3](image-20230610163124868.png)
